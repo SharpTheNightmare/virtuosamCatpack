@@ -15,4 +15,4 @@ This is a CatPack for the Prism Launcher, which adds random cats as a background
  9. (If you previously toggled the Background Cat off, click on the cat button that is located on the right of the top toolbar)
  10. Stare at the cat!
 
-There is "happybirthday.png"; you can set your birthday manually by going through the `catpack.json` file and changing the cat to your birthday
+There is `happybirthday.png`; you can set your birthday manually by going through the `catpack.json` file and changing the cat to your birthday
